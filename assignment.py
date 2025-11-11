@@ -82,4 +82,10 @@ food = "Rice"
 drink = "Juice"
 print(f"i love eating {food} and {drink}")
 
+price = 30
+print(f"I need {30:.2f} money")
+txt = "We are the so-called Vikings\b from the north."
+print(txt)
+
+
 
