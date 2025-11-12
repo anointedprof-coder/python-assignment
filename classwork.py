@@ -59,7 +59,7 @@ x = txt.isascii()
 print(x)
 
 #isdecimal()	Returns True if all characters in the string are decimals (0-9)
-boy= "87"
+boy= "8.7"
 x = boy.isdecimal()
 print(x)
 
